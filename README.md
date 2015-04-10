@@ -1,2 +1,3 @@
-# image-advertising
-Symple sistem to add advertising over a image
+# Rich Image
+
+Simple system for more about a image
