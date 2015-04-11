@@ -1,0 +1,12 @@
+{
+  "name": "RichImage",
+  "description": "Simple system for more about a image",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "load-grunt-tasks": "~3.1.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
